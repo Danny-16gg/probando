@@ -23,6 +23,8 @@ public class ejercicio00 {
         short num3 = 3; //tipo de dato de numero -2^15
         long num4 = 5; //tipo de dato de numero -2^63 a 2^63
         
+        
+        
         System.out.println(textoOCadena);
         
         
