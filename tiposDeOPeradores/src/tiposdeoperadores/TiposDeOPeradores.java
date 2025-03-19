@@ -105,12 +105,13 @@ public class TiposDeOPeradores {
             System.out.println("el numero es menor o igual");
         }else{
             System.out.println("el numero no es menor o igual");
-        }
+        }  
         
         // operadores de incremento
         
         num1 ++;
         num2--;
+     hola 
         
         System.out.println("la variable num1 en este ejercicio vale 1 y le incrementamos ++(+1): "+num1+
                 " de la misma forma con la variable num2 solo que le vamos a disminuir --(-1): "+num2);
